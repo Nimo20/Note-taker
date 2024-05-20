@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "express": "^4.19.2",
-    "inquirer": "^9.2.22"
-  }
-}
